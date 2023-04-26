@@ -1,0 +1,38 @@
+.notasform{
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 2%;
+    margin: 2% auto;
+}
+
+.colorselect{
+    text-align: center;
+    margin: 10% auto;
+}
+
+.botonagregar{
+    margin: 5% auto;
+}
+
+.notaitem{
+    width: 30%;
+    height: 200px;
+    border: 2px solid black;
+    margin: 5% auto;
+    padding: 2%;
+    overflow: auto;
+}
+
+.notasContenedor{
+    width: 90%;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: auto;
+}
